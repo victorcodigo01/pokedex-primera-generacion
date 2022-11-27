@@ -1,8 +1,8 @@
-# Pokédex Angular 11
+# Pokédex Angular
 
-Work in progress
+Pokemons de primera generación.
 
-Este projeto fue creando con Angular.
+Este proyecto fue creado con Angular.
 
 ![ScreenShot](/gifs/pokedex-victor-inicio.gif)
 
@@ -22,7 +22,7 @@ Puedes acceder a ella en la dirección:
 
 # Instrucciones de instalación del proyecto.
 
-## Ambiente Angular
+## Entorno Angular
 
 Para ejecutar Angular, vaya a la carpeta raíz en otra ejecución de terminal:
 - `npm install`
