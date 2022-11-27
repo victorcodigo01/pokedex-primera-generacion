@@ -1,0 +1,44 @@
+<section
+  class="card__container"
+  [class]="color[pokemon.color]"
+  @fade
+>
+  <article
+    class="card__pokemon"
+    [ngStyle]="setPokemonCardColor(pokemon.type_1, pokemon.type_2)"
+  >
+    <a (click)="redirectToDetails(pokemon)">
+      <header class="card__img-container">
+        <img
+          [src]="pokemon.image"
+          [title]="pokemon.name"
+          [alt]="pokemon.name"
+        />
+      </header>
+      <div class="card__info">
+        <span class="card__number">#{{ pokemon.id }}</span>
+        <h3 class="card__name" [title]="pokemon.name">{{ pokemon.name }}</h3>
+        <div class="card__wrapper">
+          <div class="card__icon" [ngStyle]="setPokemonTypeColor(pokemon.type_1)">
+            <img
+              src="../../../../../assets/icons/{{ pokemon.type_1 }}.svg"
+              [title]="pokemon.type_1"
+              [alt]="pokemon.type_1"
+            />
+          </div>
+          <div
+            class="card__icon"
+            *ngIf="pokemon.type_2"
+            [ngStyle]="setPokemonTypeColor(pokemon.type_2)"
+          >
+            <img
+              src="../../../../../assets/icons/{{ pokemon.type_2 }}.svg"
+              [title]="pokemon.type_2"
+              [alt]="pokemon.type_2"
+            />
+          </div>
+        </div>
+      </div>
+    </a>
+  </article>
+</section>
