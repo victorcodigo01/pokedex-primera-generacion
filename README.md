@@ -6,17 +6,17 @@ Este proyecto fue creado con Angular.
 
 ![ScreenShot](/gifs/pokedex-victor-inicio.gif)
 
-Los pokemon de primera generación y sus habilidades.
+Los pokemon de primera generación y sus habilidades 👍.
 
 
 ![ScreenShot](/gifs/pokedex-victor-buscador.gif)
 
-Encontrar un pokemon a través del buscador.
+Encontrar un pokemon a través del buscador 👆.
 
 
 ![ScreenShot](/gifs/pokedex-victor-smarphone.gif)
 
-Vista de los pokemons desde un smartphone.
+Vista de los pokemons desde un smartphone 📱.
 
 
 Puedes acceder a ella en la dirección: 
