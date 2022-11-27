@@ -2,19 +2,29 @@
 
 Work in progress
 
-Este projeto foi gerado em Angular 11.0.1.
+Este projeto fue creando con Angular.
 
-![screen-capture-_1_ (2)](https://user-images.githubusercontent.com/35200622/104394495-8052e800-5525-11eb-8fa7-2bc591260546.gif)
+![ScreenShot](/gifs/pokedex-victor-inicio.gif)
+
+Los pokemon de primera generación y sus habilidades.
+
+![ScreenShot](/gifs/pokedex-victor-buscador.gif)
+
+Encontrar un pokemon a través del buscador.
+
+![ScreenShot](/gifs/pokedex-victor-smarphone.gif)
+
+Vista de los pokemons desde un smartphone.
 
 ![screen-capture](https://user-images.githubusercontent.com/35200622/104393107-682d9980-5522-11eb-83f8-66d8a41a6615.gif)
 
-Você consegue acessá-lo no endereço: https://pokemon-angular.vercel.app/
+Puedes acceder a ella en la dirección: 
 
-# Instruções para instalação do projeto
+# Instrucciones de instalación del proyecto.
 
 ## Ambiente Angular
 
-Para executar o Angular, acesse pasta raiz em outro terminal execute:
+Para ejecutar Angular, vaya a la carpeta raíz en otra ejecución de terminal:
 - `npm install`
 - `ng serve` 
-- Navegue até `http://localhost:4200/`.
+- Navegar a `http://localhost:4200/`.
