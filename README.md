@@ -19,7 +19,7 @@ Encontrar un pokemon a través del buscador 👆.
 Vista de los pokemons desde un smartphone 📱.
 
 
-Puedes acceder a ella en la dirección: 
+Puedes acceder a ella en la dirección: https://pokedexprimerageneracion.netlify.app/ 🐛🦋🦉
 
 # Instrucciones de instalación del proyecto.
 
