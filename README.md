@@ -29,3 +29,14 @@ Para ejecutar Angular, vaya a la carpeta raíz en otra ejecución de terminal:
 - `npm install`
 - `ng serve` 
 - Navegar a `http://localhost:4200/`.
+
+# Tecnologías utilizadas
+
+He construido este proyecto utilizando las siguientes tecnologías y herramientas:
+
+- Angular
+- Javascript
+- Typescript.
+- HTML
+- CSS
+- scss.
